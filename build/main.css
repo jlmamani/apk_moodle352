@@ -22246,7 +22246,7 @@ ion-item-group .item-wrapper:last-child .item-ios .item-inner {
 }
 
 .item-md.item-block .item-inner {
-  border-bottom: 1px solid #dedede;
+  border-bottom: none;
 }
 
 [dir="ltr"] .item-md.item-block .item-inner {
@@ -50502,9 +50502,9 @@ ion-app.app-root page-core-login-forgotten-password .content {
 }
 
 ion-app.app-root page-core-login-init .scroll-content {
-  background-color: #ff5c00;
+  background-color: #fff;
   /* Change this to add a bg image or change color */
-  background: radial-gradient(#ff7600, #ff5c00);
+  background: radial-gradient(#fff, #fff);
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -50615,7 +50615,7 @@ ion-app.app-root page-core-login-site img.login-logo {
 
 ion-app.app-root page-core-login-site .box {
   padding: 16px;
-  margin: 8px;
+  margin: 40% 8px;
   background: #ffffff;
   border: 1px solid #dddddd;
   color: #3a3a3a;
