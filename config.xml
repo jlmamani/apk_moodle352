@@ -6,14 +6,14 @@
         versionCode = "35200"
         android-versionCode="35200"
         version   = "3.5.2">
-    <name>Moodle</name>
+    <name>CDLM Educación</name>
 
     <description>
-        Moodle official app
+        Coordinadora de la Mujer Educación
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://www.enteractive.com.bo" email="hello@enteractive.com.bo">
+        ENTERACTIVE S.R.L.
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
